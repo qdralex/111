@@ -1,0 +1,8 @@
+flask==2.2.2
+numpy==1.19.1
+torch==1.13.1
+pillow==9.4.0
+matplotlib==0.1.6
+keras==2.15.0
+pandas==2.0.3
+opencv-python==4.8.0.76
